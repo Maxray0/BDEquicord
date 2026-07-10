@@ -13,8 +13,8 @@ You can also use Deno v2 instead of Node.js, I like it more personally.
 
 1. Clone the repository:
    ```bash
-   git clone --recurse-submodules https://github.com/Davilarek/BetterVencordPatchset
-   cd BetterVencordPatchset
+   git clone --recurse-submodules https://github.com/Maxray0/BDEquicord
+   cd Dev-BDCompat
    ```
 
 2. Install dependencies:
